@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(" ");
+        new EstudiantesMain().main(args);
+        new ProductosMain().main(args);
     }
 }
